@@ -1,0 +1,56 @@
+.top-mangas {
+    background-color: #222222;
+    color: #fff;
+    width: 100%;
+    max-width: 60%;
+    margin: 50px auto;
+    text-align: start;
+    padding: 20px;
+  }
+  
+  .manga-tile {
+    background-color: #fff;
+    color: #000;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+  }
+  
+
+  .top-mangas h2{
+    position: relative;
+    bottom: 30px;
+    background-color: #800000;
+    width: fit-content;
+    padding: 10px;
+    margin-bottom: 0;
+  }
+
+
+  .top-mangas ul{
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+    padding: 0;
+  }
+
+  .top-mangas li{
+    text-align: start;
+    list-style-type: none;
+    margin-right: 25px;
+
+  }
+
+  .top-mangas li:hover{
+    cursor: pointer;
+  }
+
+  .top-mangas-list{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+  }

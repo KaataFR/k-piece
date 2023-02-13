@@ -1,0 +1,25 @@
+.tuile{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    width: fit-content;
+}
+
+
+.tuile img {
+    width: 145px;
+    height: 198px;
+}
+
+.tuile h3{
+    font-size: 14px;
+}
+
+.tuile p{
+    font-size: 10px;
+}
+
+.tuile-rating {
+    font-size: 13px;
+    color: yellow;
+}
