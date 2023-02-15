@@ -1,0 +1,38 @@
+.list-mangas{
+    width: 60%;
+    text-align: start;
+    background-color: #222222;
+    margin: auto;
+    color: white;
+}
+
+.list-mangas img{
+    width: 145px;
+    height: 198px;
+}
+
+.list-mangas ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    list-style-type: none;
+}
+
+.list-mangas h3{
+    font-size: 14px;
+}
+
+.list-mangas-body{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    width: fit-content;
+}
+
+.list-mangas h2{
+    background-color: #800000;
+    width: fit-content;
+    padding: 10px;
+}
+

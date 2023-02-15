@@ -3,15 +3,15 @@
       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91t7YlWwGfL.jpg",
       "alt": "Illustration One Piece",
       "name": "One Piece",
-      "length": 1074,
-      "rating": 5
+      "rating": 5,
+      "scans":[1074,1073,1072,1071,1070]
     },
     {
       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81RrgIknwpL.jpg",
-      "alt": "Illustration Naruto",
-      "name": "Naruto",
-      "length": 75,
-      "rating": 4
+      "alt": "Illustration Boruto",
+      "name": "Boruto",
+      "rating": 4,
+      "scans":[71,70]
     }
     
 ]

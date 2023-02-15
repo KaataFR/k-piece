@@ -1,10 +1,10 @@
 import React from 'react';
-import Accueil from './pages/Accueil/Accueil';
+import RoutesPath from './router/RoutePath';
 
 function App() {
   return (
     <div className="App">
-      <Accueil />
+      <RoutesPath />
     </div>
   );
 }

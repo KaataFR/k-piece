@@ -6,7 +6,7 @@ import "./TopMangas.css";
 function TopMangas() {
   return (
     <section className="top-mangas">
-      <h2>Top Mangas</h2>
+      <h2>Derniers chapitres</h2>
       <div className="top-mangas-list">
         <ul>
           {data.map((manga, index) => (
