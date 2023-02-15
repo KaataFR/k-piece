@@ -1,0 +1,40 @@
+.scan-carroussel {
+    width: 60%;
+    text-align: center;
+    background-color: #222222;
+    margin: auto ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.scan-carroussel p {
+    width: 100%;
+    font-size: 1.3em;
+}
+  
+  
+.scan-carroussel img {
+    max-width: 59%;
+    max-height: 59%;
+    cursor: pointer;
+    border: 1px solid white;
+  }
+  
+  .scan-arrow{
+    font-size: 60px;
+    cursor: pointer;
+    display: flex;
+  }
+
+  .scan-arrow.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+  
